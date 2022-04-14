@@ -53,6 +53,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="org.nik.presentation-assistant">
           <value>
             <PluginData>
