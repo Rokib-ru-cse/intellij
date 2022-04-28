@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="tomcat10" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/opt/tomcat/bin/catalina.sh" />
+      <option name="PARAMETERS" value="jpda run" />
+      <option name="WORKING_DIRECTORY" value="/opt/tomcat/bin" />
+    </exec>
+  </tool>
+</toolSet>
