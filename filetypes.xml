@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".jsp" type="HTML" />
+      <mapping ext="jsp" type="HTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jsp" approved="true" type="JSP" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".jsp" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
