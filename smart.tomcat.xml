@@ -6,6 +6,11 @@
         <option name="path" value="/opt/apache-tomcat-9.0.62" />
         <option name="version" value="9.0.62.0" />
       </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/10.0.18" />
+        <option name="path" value="/opt/tomcat" />
+        <option name="version" value="10.0.18.0" />
+      </TomcatInfo>
     </option>
   </component>
 </application>
